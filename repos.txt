@@ -2,4 +2,5 @@ nhintruong/animint-gradient-descent
 nhintruong/animint-lilac-chaser
 nhintruong/animint-frequency-prices
 nhintruong/animint-monte-carlo-integration
+nhintruong/animint-law-large-numbers
 nhintruong/animint-mean-mc-integration
