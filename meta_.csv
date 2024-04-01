@@ -6,3 +6,4 @@ add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
 2024-04-01T00:00:00Z,nhintruong/animint-galton-box,2024-04-01T00:00:00Z,https://github.com/nhintruong/animint-galton-box/blob/main/galton_box_final.R,Galton Box
 2024-04-01T00:00:00Z,nhintruong/animint-law-large-numbers,2024-04-01T00:00:00Z,https://github.com/nhintruong/animint-law-large-numbers/blob/main/informal_testing/fn_lln.R,Law of Large Numbers
 2024-04-01T00:00:00Z,nhintruong/animint-brownian-motion,,https://github.com/nhintruong/animint-brownian-motion/blob/main/BrownianMotion.R,Brownian Motion
+2024-04-01T00:00:00Z,nhintruong/animint-mean-mc-integration,2024-04-01T00:00:00Zhttps://github.com/nhintruong/animint-mean-mc-integration/blob/main/scripts/monte_carlo_integration.R,Animint Monte Carlo Integration
