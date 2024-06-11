@@ -1,9 +1,3 @@
 add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
-2024-04-01T00:00:00Z,nhintruong/animint-monte-carlo-integration,2024-04-01T00:00:00Z,https://github.com/nhintruong/animint-monte-carlo-integration/blob/master/MediumTask.R,Monte Carlo Integration
-2024-04-01T00:00:00Z,nhintruong/animint-galton-box,2024-04-01T00:00:00Z,https://github.com/nhintruong/animint-galton-box/blob/main/galton_box_final.R,Galton Box
-2024-04-01T16:48:52.644568Z,nhintruong/animint-gradient-descent,2024-04-01T16:19:12Z,https://github.com/nhintruong/animint-gradient-descent/blob/master/test.medium.R,Demonstration of Gradient Descent Algorithm
-2024-04-01T16:48:52.644568Z,nhintruong/animint-lilac-chaser,2024-04-01T16:21:31Z,https://github.com/nhintruong/animint-lilac-chaser/blob/master/R/med_vi_lilac_chaser.R,Lilac Chaser
-2024-04-01T16:48:52.644568Z,nhintruong/animint-frequency-prices,2024-04-01T16:24:24Z,https://github.com/nhintruong/animint-frequency-prices/blob/master/medium_edited_final.Rmd,frequency of stock prices
-2024-04-01T16:48:52.644568Z,nhintruong/animint-law-large-numbers,2024-04-01T16:25:24Z,https://github.com/nhintruong/animint-law-large-numbers/blob/main/informal_testing/fn_lln.R,Law of Large Numbers
-2024-04-01T16:48:52.644568Z,nhintruong/animint-brownian-motion,2024-04-01T16:26:20Z,https://github.com/nhintruong/animint-brownian-motion/blob/main/BrownianMotion.R,Brownian Motion
-2024-04-01T16:48:52.644568Z,nhintruong/animint-mean-mc-integration,2024-04-01T16:22:49Z,https://github.com/nhintruong/animint-mean-mc-integration/blob/main/scripts/monte_carlo_integration.R,Hit or Miss Monte Carlo Integration
+2023-10-26,nhintruong/animint-figure-nnet-regression-degrees,2023-10-26,https://github.com/tdhock/2023-08-deep-learning/blob/main/slides/09-regression.R,abcz
+2023-03-13,nhintruong/Ch18-neural-networks-sim,2023-03-13,https://github.com/tdhock/animint-book/blob/7e7a224c004843d42a6f7e6caa30e319bcdce901/Ch18-neural-networks-sim.R,Neural network vs linear model

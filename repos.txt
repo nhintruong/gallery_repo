@@ -1,8 +1,2 @@
-nhintruong/animint-gradient-descent
-nhintruong/animint-lilac-chaser
-nhintruong/animint-frequency-prices
-nhintruong/animint-monte-carlo-integration
-nhintruong/animint-galton-box
-nhintruong/animint-law-large-numbers
-nhintruong/animint-brownian-motion
-nhintruong/animint-mean-mc-integration
+nhintruong/animint-figure-nnet-regression-degrees
+nhintruong/Ch18-neural-networks-sim
