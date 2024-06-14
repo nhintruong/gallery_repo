@@ -1,3 +1,4 @@
 add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
 2023-10-26,nhintruong/animint-figure-nnet-regression-degrees,2023-10-26,https://github.com/tdhock/2023-08-deep-learning/blob/main/slides/09-regression.R,abcz
 2023-03-13,nhintruong/Ch18-neural-networks-sim,2023-03-13,https://github.com/tdhock/animint-book/blob/7e7a224c004843d42a6f7e6caa30e319bcdce901/Ch18-neural-networks-sim.R,Neural network vs linear model
+2023-11-06,nhintruong/figure-differences-interactive,2023-11-06,https://github.com/tdhock/change-tutorial/blob/master/figure-differences-interactive.R,AIC/BIC change-point detection comparison using ROC curves
