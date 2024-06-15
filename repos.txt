@@ -1,3 +1,4 @@
 nhintruong/animint-figure-nnet-regression-degrees
 nhintruong/Ch18-neural-networks-sim
 nhintruong/figure-differences-interactive
+nhintruong/figure-gradient-descent-regression
